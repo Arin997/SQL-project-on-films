@@ -11,9 +11,9 @@ Output 4- All the name of the films where PENELOPE GUINESS has worked
 Output 5- Name of the cities with the number of active customers
 ![5](https://github.com/Arin997/SQL-project-on-films/assets/139127936/f20918ab-0d9f-44cd-aadb-302dcff53da2)
 Output 6- Top 3 actors who have most appeared in the “Sci-Fi” category films
-![2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/a79424f3-e5bf-4187-97e8-48e4756927f5)
+![o2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/f3b51201-c3fd-4392-91e6-4ce75f8f086d)
 Output 7- Top 5 films which the customers are renting.
-![7](https://github.com/Arin997/SQL-project-on-films/assets/139127936/8ebd088e-1e2c-4f1c-8929-da8b488547ab)
+![o7](https://github.com/Arin997/SQL-project-on-films/assets/139127936/8c7223f2-e9f0-4aad-9693-642f3b31a67b)
 Output 8- All the films done by each actors using string agg.
 ![o8](https://github.com/Arin997/SQL-project-on-films/assets/139127936/67ee7211-2c4d-40c5-b2a0-1128358ccf8b)
 Output 9- The customers are spenting the most money in which store
