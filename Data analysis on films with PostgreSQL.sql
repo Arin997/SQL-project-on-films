@@ -24,7 +24,7 @@ category as c
 on fc.category_id=c.category_id
 where name='Drama';
 
---3 Wherever word drama is present in the film lists
+--3 Wherever word drama is present in the film's descriptions
 
 select title
 from film
