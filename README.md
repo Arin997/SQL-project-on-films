@@ -5,9 +5,9 @@ Output 1-
 Output 2-
 ![o3](https://github.com/Arin997/SQL-project-on-films/assets/139127936/c4e94fa8-f8cb-4789-bed5-74a40211e9fe)
 Output 3-
-![o2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/173247ca-9326-46c7-b8fa-e54c3fb1b423)
-Output 4-
 ![o4](https://github.com/Arin997/SQL-project-on-films/assets/139127936/94ce755c-7261-4e1b-80b5-94bae3bbc057)
+Output 4-
+![o2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/173247ca-9326-46c7-b8fa-e54c3fb1b423)
 Output 5-
 ![o5](https://github.com/Arin997/SQL-project-on-films/assets/139127936/b01139a6-58e7-4fa9-845c-001640240758)
 Output 6-
