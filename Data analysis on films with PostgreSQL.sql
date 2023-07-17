@@ -54,7 +54,7 @@ customer as cu
 on cu.address_id=a.address_id
 where cu.active=1;
 
---6 Top 3 actors who have most appeared in the “Children” category films
+--6 Top 3 actors who have most appeared in the “Sci-Fi” category films
 
 select concat(a.first_name|| ' ' ||a.last_name) as Actor_names, count(f.title)
 from actor1 as a
