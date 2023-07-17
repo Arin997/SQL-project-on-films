@@ -1,3 +1,6 @@
+First I created the tables in PGAdmin
+then inserted all the values with the help of copy command
+
 --1 Name of the actors of the films
 
 select b.title, concat(a.first_name|| ' ' ||a.last_name) as Actor_name
