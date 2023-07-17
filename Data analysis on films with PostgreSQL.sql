@@ -32,7 +32,7 @@ where description like '%Drama%';
 
 --4 All the name of the films where PENELOPE GUINESS has worked
 
-select b.title, concat(a.first_name|| ' ' ||a.last_name) as Actor_name
+select b.title
 from film as b
 left join
 film_actor as fa
