@@ -7,19 +7,13 @@ Output 2-
 Output 3-
 ![o4](https://github.com/Arin997/SQL-project-on-films/assets/139127936/94ce755c-7261-4e1b-80b5-94bae3bbc057)
 Output 4-
-![o6](https://github.com/Arin997/SQL-project-on-films/assets/139127936/4e60a164-2000-43a2-a78b-c0d6c71e71e5)
+![4](https://github.com/Arin997/SQL-project-on-films/assets/139127936/27b5f5de-8fd9-415a-b100-ba19b5118619)
 Output 5-
-![o5](https://github.com/Arin997/SQL-project-on-films/assets/139127936/b01139a6-58e7-4fa9-845c-001640240758)
+![5](https://github.com/Arin997/SQL-project-on-films/assets/139127936/f20918ab-0d9f-44cd-aadb-302dcff53da2)
 Output 6-
-![o2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/173247ca-9326-46c7-b8fa-e54c3fb1b423)
 Output 7-
-![o7](https://github.com/Arin997/SQL-project-on-films/assets/139127936/ba4340d4-61ac-4047-a638-846c1234f73b)
 Output 8-
-![o8](https://github.com/Arin997/SQL-project-on-films/assets/139127936/5e222f25-46d1-416b-bfdb-f0911fe27f7f)
 Output 9-
-![o9](https://github.com/Arin997/SQL-project-on-films/assets/139127936/b99214ac-e08d-4db4-80b4-c1f60b1c42c8)
 Output 10-
-![o10](https://github.com/Arin997/SQL-project-on-films/assets/139127936/fcc105d9-c0c4-4afe-a997-130bb763540f)
 Output 11-
-![o11](https://github.com/Arin997/SQL-project-on-films/assets/139127936/cb74b326-cb8b-440b-9e6d-9211c257518c)
 
