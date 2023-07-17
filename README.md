@@ -11,9 +11,14 @@ Output 4-
 Output 5-
 ![5](https://github.com/Arin997/SQL-project-on-films/assets/139127936/f20918ab-0d9f-44cd-aadb-302dcff53da2)
 Output 6-
+![2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/a79424f3-e5bf-4187-97e8-48e4756927f5)
 Output 7-
+![7](https://github.com/Arin997/SQL-project-on-films/assets/139127936/8ebd088e-1e2c-4f1c-8929-da8b488547ab)
 Output 8-
+![o8](https://github.com/Arin997/SQL-project-on-films/assets/139127936/67ee7211-2c4d-40c5-b2a0-1128358ccf8b)
 Output 9-
+![o9](https://github.com/Arin997/SQL-project-on-films/assets/139127936/3722d965-da07-4c87-b293-b8d70130845d)
 Output 10-
+![o10](https://github.com/Arin997/SQL-project-on-films/assets/139127936/fb17835d-0f03-458e-b5c2-f26e1f46a206)
 Output 11-
-
+![o11](https://github.com/Arin997/SQL-project-on-films/assets/139127936/facac638-cbaa-49d3-b09c-b282d1c8f0be)
