@@ -7,11 +7,11 @@ Output 2-
 Output 3-
 ![o4](https://github.com/Arin997/SQL-project-on-films/assets/139127936/94ce755c-7261-4e1b-80b5-94bae3bbc057)
 Output 4-
-![o2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/173247ca-9326-46c7-b8fa-e54c3fb1b423)
+![o6](https://github.com/Arin997/SQL-project-on-films/assets/139127936/4e60a164-2000-43a2-a78b-c0d6c71e71e5)
 Output 5-
 ![o5](https://github.com/Arin997/SQL-project-on-films/assets/139127936/b01139a6-58e7-4fa9-845c-001640240758)
 Output 6-
-![o6](https://github.com/Arin997/SQL-project-on-films/assets/139127936/4e60a164-2000-43a2-a78b-c0d6c71e71e5)
+![o2](https://github.com/Arin997/SQL-project-on-films/assets/139127936/173247ca-9326-46c7-b8fa-e54c3fb1b423)
 Output 7-
 ![o7](https://github.com/Arin997/SQL-project-on-films/assets/139127936/ba4340d4-61ac-4047-a638-846c1234f73b)
 Output 8-
